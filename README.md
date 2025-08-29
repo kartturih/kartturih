@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=ICT+Engineering+Student+🎓;Game+Developer+🎮;Software+Developer+💻;VR+Enthusiast+🥽;AI+%26+Machine+Learning+🤖;Always+learning+new+things!+🚀&font=Fira%20Code&center=true&width=500&height=50&color=58a6ff&vCenter=true&size=18&duration=4000&pause=1000">
 </div>
 
-🏢 **Technical Documentation Specialist** at Metos Oy  
+🏢 **Technical Documentation** at Metos Oy  
 📍 **Kajaani, Finland** | 🎯 **Seeking internship opportunities**
 
 ---
