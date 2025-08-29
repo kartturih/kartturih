@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Arttu Vihervuori
 
-<!--
-**kartturih/kartturih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 ICT Engineering Student | 🎮 Game Developer | 💻 Software Developer
 
-Here are some ideas to get you started:
+📍 **Location**: Kajaani, Finland  
+🏫 **University**: Kajaani University of Applied Sciences  
+💼 **Work**: Technical Documentation Specialist at Metos Oy  
+🎯 **Focus**: Software Development & Game Technology  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 How to reach me:
+- 💼 LinkedIn: [arttu-vihervuori](https://www.linkedin.com/in/arttu-vihervuori/)
+- 💻 GitHub: [kartturih](https://github.com/kartturih)  
+- 📧 Email: arttu.vihervuori@outlook.com
+- 📱 Phone: +358 40 353 9883
