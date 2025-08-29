@@ -1,50 +1,40 @@
-# 👋 Hi, I'm Arttu Vihervuori
+## Hi there 👋 I'm Arttu Vihervuori
 
-## 🎓 ICT Engineering Student | 🎮 Game Developer | 💻 Software Developer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=ICT+Engineering+Student+🎓;Game+Developer+🎮;Software+Developer+💻;VR+Enthusiast+🥽;AI+%26+Machine+Learning+🤖;Always+learning+new+things!+🚀&font=Fira%20Code&center=true&width=500&height=50&color=58a6ff&vCenter=true&size=18&duration=4000&pause=1000">
+</div>
 
-📍 **Location**: Kajaani, Finland  
-🏫 **University**: Kajaani University of Applied Sciences  
-💼 **Work**: Technical Documentation Specialist at Metos Oy  
-🎯 **Focus**: Software Development & Game Technology  
-
----
-
-### 📫 How to reach me:
-- 💼 LinkedIn: [arttu-vihervuori](https://www.linkedin.com/in/arttu-vihervuori/)
-- 💻 GitHub: [kartturih](https://github.com/kartturih)  
-- 📧 Email: arttu.vihervuori@outlook.com
-- 📱 Phone: +358 40 353 9883
+🏢 **Technical Documentation Specialist** at Metos Oy  
+📍 **Kajaani, Finland** | 🎯 **Seeking internship opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Technologies I work with
 
-### Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![GDScript](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+**Languages:** C++ • Python • C# • GDScript  
+**Game Dev:** Unreal Engine 5 • Godot • VR Development  
+**Tools:** Git • GitHub • Visual Studio • Linux
 
-### Game Development
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+---
 
-### Tools & Technologies  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 📫 Get in touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/arttu-vihervuori/)
+- 📧 arttu.vihervuori@outlook.com
+- 📱 +358 40 353 9883
+
+🎯 **Currently seeking internship opportunities in software development!**
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Arttu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartturih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartturih&theme=tokyonight&hide_border=true)
+![Arttu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartturih&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartturih&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartturih&theme=github-dark-blue&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartturih&layout=compact&theme=github_dark&hide_border=true&count_private=true)
 
 </div>
