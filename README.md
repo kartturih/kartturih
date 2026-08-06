@@ -38,6 +38,14 @@ The project includes:
 
 [View the repository](https://github.com/kartturih/oppari)
 
+## Play ZenTap
+
+A fast-paced reaction game built with HTML, CSS and JavaScript. Click the dark tiles, avoid the light ones and score as many points as possible in 30 seconds.
+
+[![Play ZenTap](https://img.shields.io/badge/Play-ZenTap-00d4ff?style=for-the-badge)](https://kartturih.github.io/ZenTap/)
+
+[View source code](https://github.com/kartturih/ZenTap)
+
 ## Technologies
 
 **Languages:** C++, Dart, Python, SQL  
