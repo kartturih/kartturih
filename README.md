@@ -71,3 +71,7 @@ A game demo built with an existing custom C++ engine to evaluate its capabilitie
 - [LinkedIn](https://www.linkedin.com/in/arttu-vihervuori/)
 - [GitHub](https://github.com/kartturih)
 - Email: arttu.vihervuori@outlook.com
+
+- ## Contributions
+
+![GitHub contribution snake](https://raw.githubusercontent.com/kartturih/kartturih/output/github-contribution-grid-snake-dark.svg)
