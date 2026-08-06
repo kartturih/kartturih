@@ -38,26 +38,6 @@ The project includes:
 
 [View the repository](https://github.com/kartturih/oppari)
 
-## Selected projects
-
-### VR Gunrange
-
-A virtual reality shooting range with moving targets, magazine ejection and manual reloading mechanics.
-
-[GitHub](https://github.com/kartturih/VR_gunrange) · [Demo](https://youtu.be/EPrb9Z0E9HA)
-
-### Cooperative Network Game
-
-A real-time cooperative multiplayer game built in C++ using client-server architecture and synchronized game state.
-
-[GitHub](https://github.com/kartturih/coop_verkkopeli) · [Demo](https://youtu.be/5OXqbHb9G5A)
-
-### KAMK 2D Engine
-
-A game demo built with an existing custom C++ engine to evaluate its capabilities and provide development feedback.
-
-[View the repository](https://github.com/kartturih/kamk2D_engine)
-
 ## Technologies
 
 **Languages:** C++, Dart, Python, SQL  
