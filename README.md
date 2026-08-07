@@ -42,7 +42,7 @@ The project includes:
 
 A fast-paced reaction game built with HTML, CSS and JavaScript.
 
-[![ZenTap gameplay preview](https://raw.githubusercontent.com/kartturih/kartturih/main/assets/zentap-preview.gif)](https://kartturih.github.io/ZenTap/)
+[![ZenTap gameplay preview](https://raw.githubusercontent.com/kartturih/kartturih/main/assets/zentap-gameplay.gif)](https://kartturih.github.io/ZenTap/)
 
 [Play ZenTap](https://kartturih.github.io/ZenTap/) · [View source code](https://github.com/kartturih/ZenTap)
 
